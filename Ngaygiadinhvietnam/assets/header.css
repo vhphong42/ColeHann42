@@ -1,0 +1,52 @@
+
+
+.header .navbar .top_navbar {
+    background: #152F4A;
+    padding: 2px 2px 2px 2px;
+    height: 40.39px;
+}
+
+
+.header .navbar-header{
+    width: 100%;
+}
+
+.header .navbar strong.text_white{
+    line-height: 40px;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+.bottom_navbar{
+    border-bottom: 1px solid #d5d0d0;
+    height: 50px;
+}
+
+.bottom_navbar img{
+  
+    width: 5%;
+}
+
+.bottom_navbar ul{
+    line-height: 50px;
+    
+}
+
+.bottom_navbar li{
+    display: initial;
+    margin-right: 50px; 
+}
+
+.bottom_navbar li a{
+    color: #404040;
+    font-size: 12px;
+}
+
+.bottom_navbar .navbar-right{
+    text-align: end;
+}
+
+
+
+
+

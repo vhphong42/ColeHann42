@@ -1,0 +1,33 @@
+.center{
+    text-align: center;
+}
+
+.text_white{
+    color: #fff;
+}
+
+.f_800{
+    font-weight: 800;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.black{
+    color: black;
+}
+
+.grey{
+    color: #b8bfc4;
+    text-decoration: line-through;
+}
+
+.red{
+    color:#ce002e;
+}
+
+.container {
+    margin: 0 auto;
+    width: 90%;
+}

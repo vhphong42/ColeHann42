@@ -1,0 +1,136 @@
+.content .d-none .d-lg-block{
+    margin-bottom: 0%; 
+}
+.content .col-md-12	.col-lg-12 .col-xl-12{
+    padding: 0%;
+}
+.content .row img{
+     max-width: 100%;
+}
+.row{
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.content .right-2  {
+    position: absolute;
+    z-index: 3500;
+    top: 7%;
+    right: 3%;
+    
+}
+.content .p-head{
+    font-size: 32px;
+    line-height: 48px;
+    font-weight: 400;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.content .p-txt {
+    font-size: 19px;
+    line-height: 29px;
+    font-weight: 400;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.content .p-head-4 {
+    font-size: 32px;
+    line-height: 48px;
+    font-weight: 600;
+    color: black;
+    margin-top: 70px;
+    padding-top: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.content .p-txt{
+    font-size: 19px;
+    line-height: 29px;
+    font-weight: 400;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.content  .p2 button {
+    font-size: 14px;
+    line-height: 18px;
+    background-color: black;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    margin-left: 28pc;
+    margin-top: 52px;
+    margin-bottom: 70px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.content .p-head-b {
+    font-size: 32px;
+    line-height: 48px;
+    font-weight: 600;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.content .mud-4 {
+    padding: 1% 1% 5% 1%;
+    text-align: center;
+}
+.d-flex {
+    display: -ms-flexbox!important;
+    display: flex!important;
+}
+.content .p-head-4 {
+    font-size: 32px;
+    line-height: 48px;
+    font-weight: 600;
+    color: black;
+}
+.content .p-txt {
+    font-size: 19px;
+    line-height: 29px;
+    font-weight: 400;
+    color: black;
+}
+.content .button-sus {
+    font-size: 12px;
+    line-height: 18px;
+    background-color: White;
+    color: #16b416;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    font-weight: 600;
+    border: none;
+}
+.left-41 {
+    position: absolute;
+    z-index: 4600;
+    top: 10%;
+    left: 5%;
+}
+
+.p-txt-t {
+    font-size: 19px;
+    line-height: 29px;
+    font-weight: 400;
+    color: white;
+}
+.button-white {
+    font-size: 14px;
+    line-height: 18px;
+    background-color: white;
+    color: black;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    font-weight: 600;
+}
+.col-4 img{
+    width: 30%;
+    padding-bottom: 25px;
+}
+.button-un{
+    border: none;
+    margin-left: 40%;
+}
